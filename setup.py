@@ -6,7 +6,7 @@ setup(
     description='A Python module for Poisson regression',
     author='Marcel Moudila',
     author_email='moudilamarcel@gmail.com',
-    url='https://github.com/votre-utilisateur/moudila_regpoisson',  # Remplacez par l'URL de votre dépôt GitHub
+    url='https://github.com/marcel-moudila/moudila_regpoisson',
     packages=find_packages(),
     install_requires=[
         'numpy',
